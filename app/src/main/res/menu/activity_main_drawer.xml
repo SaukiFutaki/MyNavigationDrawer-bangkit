@@ -22,7 +22,7 @@
             android:title="@string/menu_cart" />
         <item
             android:id="@+id/nav_dashboard"
-            android:icon="@drawable/ic_hotel"
+            android:icon="@drawable/baseline_dashboard_24"
             android:title="@string/menu_dashboard" />
 
     </group>
